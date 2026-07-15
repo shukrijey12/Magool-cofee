@@ -137,6 +137,7 @@ This project was developed to practice modern front-end web development concepts
 Student at Dugsiiye Institute of Technology
 
 Passionate about Front-End Development and JavaScript.
+this is vercel link :https://magool-cofee.vercel.app/
 
 GitHub:
 https://github.com/shukrijey12
